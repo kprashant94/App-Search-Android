@@ -1,0 +1,1 @@
+This app provides platform for searching applications installed on the phone.
